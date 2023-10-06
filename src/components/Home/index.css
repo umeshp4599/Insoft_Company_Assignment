@@ -1,0 +1,231 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* height: 370vh; */
+  margin-top: 10px;
+}
+
+.contact-img {
+  width: 150px;
+}
+
+.home-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #6d396b;
+  font-size: 24px;
+}
+@media (min-width: 576px) {
+  .home-heading {
+    font-size: 48px;
+  }
+}
+.first-row {
+  display: flex;
+  justify-content: space-around;
+  background-color: #ff5016;
+  background-image: url('https://schoolaura.com/Content/new_assets/images/header/banner-bg.png');
+  /* flex-direction: column; */
+  padding: 30px;
+}
+.first-row-1 {
+  margin-right: 150px;
+}
+.button1 {
+  margin-top: 10px;
+  background-color: #06091b;
+  color: white;
+  height: 45px;
+  width: 80px;
+  border-radius: 0px;
+  border-width: 0px;
+}
+.pra {
+  font-size: 15px;
+  font-weight: 450;
+}
+.imgboy {
+  margin-top: 10px;
+  align-self: center;
+  margin-left: 40px;
+}
+.login-blw {
+  display: flex;
+  flex-direction: row;
+}
+.login-blw1 {
+  margin-right: 10px;
+}
+.second-row {
+  display: flex;
+  justify-content: space-around;
+}
+.second-row-1 {
+  margin-right: 150px;
+}
+.login {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.row1 {
+  display: flex;
+}
+.third-row {
+  margin-top: 20px;
+  text-align: center;
+}
+.hed {
+  font-weight: 500;
+  font-size: 20px;
+}
+.but {
+  height: 35px;
+  width: 145px;
+  border-width: 0px;
+  border-radius: 16px;
+  margin-bottom: 5px;
+  background-color: #ff5016;
+  color: white;
+}
+.card {
+  margin-right: 10px;
+  text-align: center;
+  width: 180px;
+  height: 240px;
+  padding: 15px;
+  background-color: white;
+  border-radius: 8px;
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.third-row1 {
+  display: flex;
+}
+
+.third-row1-1 {
+  margin: 5px;
+  border: 2px solid lightgrey;
+  padding: 5px;
+  border-radius: 5px;
+}
+.easy-access {
+  height: 350px;
+  width: 400px;
+}
+.fourth-row {
+  display: flex;
+  margin: 10px;
+  margin-top: 20px;
+}
+.fifth-row {
+  display: flex;
+  margin: 10px;
+  margin-top: 20px;
+}
+.six-row {
+  margin-top: 20px;
+}
+.seventh-row {
+  display: flex;
+  margin: 40px;
+  margin-top: 20px;
+}
+.eight-row {
+  display: flex;
+  margin: 40px;
+}
+.eight-row-1 {
+  margin-right: 20px;
+}
+.tenth-row {
+  display: flex;
+  /* margin-top: 40px; */
+  justify-content: space-around;
+  background-color: #06091b;
+  padding: 30px;
+  color: white;
+}
+.ninth-row {
+  background-color: #0d1028;
+  margin-top: 10px;
+  padding: 40px;
+}
+.ninth-row-1 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.ninth-row-2 {
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-around;
+  margin-right: 160px;
+  margin-left: 60px;
+  align-items: center;
+}
+.ninth-row-3 {
+  margin-right: 15px;
+}
+.listrow {
+  display: flex;
+  text-align: center;
+}
+.heading-color {
+  color: #ff5016;
+  font-weight: 500;
+  font-size: 20px;
+}
+.para-links1 {
+  color: #ff5016;
+  font-size: 40px;
+}
+.span1 {
+  color: #037bff;
+}
+.para-color {
+  color: #037bff;
+}
+.para-color1 {
+  color: white;
+  font-size: 11px;
+}
+.icon {
+  background-color: grey;
+  height: 35px;
+  width: 35px;
+  margin-right: 10px;
+  padding: 5px;
+  padding-top: 7px;
+  border-radius: 10px;
+}
+.icon1 {
+  color: white;
+}
+.para-links {
+  color: #9e9ea0;
+  font-size: 15px;
+  /* margin-top: 0px; */
+}
+.ninth-row-1 {
+  display: flex;
+}
+.ninth-row-2 {
+  /* margin-right: 10px; */
+  display: flex;
+  flex-direction: column;
+}
+.ninth-row-3-1 {
+  display: flex;
+}
+.img5 {
+  /* height: 10px;
+  width: 10px; */
+  margin-right: 5px;
+}
